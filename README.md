@@ -1,8 +1,15 @@
 
 
+
 # wax
 
-este es un proyecto de ejemplo
-ESAS SON MI LINEAS ADICIONALES
-ESTAS SON MI LINEAS ADICIO
-hola mundo como estas 
+##acerca de este proyecto
+--------
+este proyecto es para el modular 
+###integrantes
+---
+-canto
+-balvin
+-ronaldo
+
+
